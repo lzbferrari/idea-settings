@@ -1,5 +1,7 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://www.dangdang.com/schema/ddframe/job" />
+    <ignored-resource url="http://www.dangdang.com/schema/ddframe/reg" />
     <ignored-resource url="http://www.springframework.org/schema/tx" />
   </component>
 </application>
